@@ -148,4 +148,4 @@ trainer.train()
 This project showcases the power of fine-tuning pre-trained models like BERT for NER tasks. By leveraging the CoNLL-2003 dataset and state-of-the-art libraries, it highlights both the challenges and benefits of implementing a robust NER pipeline. The code and methodology can be extended to other NLP tasks with minimal modifications.
 
 ## Contact
-- Ritik Patel - [ritik.patel129@gmail.com]
+- Ritik Patel - [https://www.linkedin.com/in/thatritikpatel/]
